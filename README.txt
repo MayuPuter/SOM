@@ -26,7 +26,7 @@ After you have installed Anaconda, you can launch the application,
 
 However, if you launch the app as is, it will select the notebook from the default location of your account
 
-Since this is inconvenient, I always start it from within the Anacoda prompt,
+Since this is inconvenient, I always start it from within the Anacoda prompt, and
 cd (change directory) to the location where the above program is located, and then
 
     jupyter notebook --notebook-dir="."
