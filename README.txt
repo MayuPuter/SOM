@@ -31,15 +31,13 @@ cd (change directory) to the location where the above program is located, and th
 
     jupyter notebook --notebook-dir="."
 
-and then type the command jupyter notebook --notebook-dir=".
-
 This option --notebook-dir=**** means that the directory in which the command is executed will be changed to the "current directory".
 
-If you want to do a frequency count, from the list of programs,
+If you want to do a frequency count, from the list of programs select the file,
 
     count_Fasta_Window_Step_Size_Ver_2_2.ipynb
 
-from the list of programs, and the program will open, then in the Parameter Settings change the parameters,
+After the program will open, then in the Parameter Settings change the parameters,
 
     nuc_length
     window_size
